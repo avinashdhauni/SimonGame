@@ -3,7 +3,7 @@ var userChosenColour;
 var userClickedPattern=[];
 var buttonColors= ["red", "blue", "green", "yellow"];
 
-var started = true;
+var started = false;
 
 var level = 0;
 
